@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with internships.
 - ⚡ Fun fact: Bicycle riding, football, computers and friends is life.
 - 😄 Pronouns: It's Venice not Vanish .
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b/">Linkedin</a> <a href="www.instagram.com/ven.iis">Insta</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b/">Linkedin</a> <a href="https://www.instagram.com/ven.iis">Insta</a> 
 - 💬 Ask me about coding or anything.
 
 
