@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently student of IT engineering.
-- 🌱 I’m currently learning Problem solving in real world tasks.
-- 👯 I’m looking to collaborate in open source projects/.
-- 🤔 I’m looking for help with internships.
+- 🌱 Try to learn Problem solving skills in real world tasks.
+- 👯 Looking to collaborate in open source projects/.
+- 🤔 Currently looking for help with internships or projects.
 - ⚡ Fun fact: Bicycle riding, football, computers and friends is life.
-- 😄 Pronouns: It's Venice not Vanish .
+- 😄 Pronouns: It's Venis not Vanish.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b/">Linkedin</a> <a href="https://www.instagram.com/ven.iis">Insta</a> 
 - 💬 Ask me about coding or anything.
 
