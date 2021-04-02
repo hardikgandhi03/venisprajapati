@@ -1,34 +1,33 @@
 ### Hi there Venis here 👋
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/venisprajapati
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=venisprajapati&color=blueviolet">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ven.iis"><img src="https://img.shields.io/badge/-ven.iis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+<h3>How to reach me:</h3>
+
+<a href="https://www.linkedin.com/in/imickovski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ivan_mickovski@hotmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://komarev.com/ghpvc/?username=venisprajapati&color=blueviolet">
+[![GitHub contributors](https://img.shields.io/github/contributors/venisprajapati/creative-profile-readme)](https://github.com/venisprajapati/creative-profile-readme/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/venisprajapati/creative-profile-readme)](https://github.com/venisprajapati/creative-profile-readme/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/venisprajapati/creative-profile-readme/pulls)
+[![HitCount](https://views.whatilearened.today/views/github/venisprajapati/creative-profile-readme.svg)](https://github.com/venisprajapati/creative-profile-readme)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/venisprajapati/github-contribution-stats/)
 
-<div align="right">
-  
+<div align="center">
+.
+   
 - 🔭 I’m currently student of IT engineering.
 - 🌱 Try to learn Problem solving skills in real world tasks.
 - 👯 Looking to collaborate in open source projects/.
