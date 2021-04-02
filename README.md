@@ -13,30 +13,53 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 
-
-</p>
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://komarev.com/ghpvc/?username=venisprajapati&color=blueviolet">
 [![GitHub contributors](https://img.shields.io/github/contributors/venisprajapati/creative-profile-readme)](https://github.com/venisprajapati/creative-profile-readme/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/venisprajapati/creative-profile-readme)](https://github.com/venisprajapati/creative-profile-readme/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/venisprajapati/creative-profile-readme/pulls)
 [![HitCount](https://views.whatilearened.today/views/github/venisprajapati/creative-profile-readme.svg)](https://github.com/venisprajapati/creative-profile-readme)
+-->
 
- -->
+<img alt="Contribution stats" href="https://github.com/venisprajapati/github-contribution-stats/" src="https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical" align="right"/>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/venisprajapati/github-contribution-stats/)
+### 👨🏻‍💻 &nbsp;About Me
 
-<div align="center">
-.
-   
-- 🔭 I’m currently student of IT engineering.
-- 🌱 Try to learn Problem solving skills in real world tasks.
-- 👯 Looking to collaborate in open source projects/.
-- 🤔 Currently looking for help with internships or projects.
-- ⚡ Fun fact: Bicycle riding, football, computers, games and friends is life.
-- 😄 Pronouns: It's Venis not Vanish.
+🔭 I’m currently student of IT.\
+🌱 Always learning Problem solving skills in real world tasks.\
+👯 Looking to collaborate in open source projects/.\
+🤔 Currently looking for projects or internship.\
+⚡ Fun fact: Bicycle riding, football, computers, games and friends is life.\
+😄 Pronunciation: It's Venis not Vanish.
 
-</div>
+### 🛠 &nbsp;Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Linux](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<!--
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+-->
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -45,9 +68,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venisprajapati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venisprajapati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+ 
+<a href="https://github.com/venisprajapati/CodeHat-frontend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=CodeHat-frontend&theme=algolia&layout=compact" />
+</a>    
+<a href="https://github.com/venisprajapati/Boat-Rush">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=Boat-Rush&theme=algolia&layout=compact" />
+</a>
+
+<a href="https://github.com/venisprajapati">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venisprajapati&theme=algolia&layout=compact" />
+</a>
+
 </p>
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venisprajapati&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+
