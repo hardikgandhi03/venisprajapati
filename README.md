@@ -25,6 +25,8 @@
    <img src="https://komarev.com/ghpvc/?username=venisprajapati&color=blueviolet">
 </p>
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/venisprajapati/github-contribution-stats/)
+
 <div align="right">
   
 - 🔭 I’m currently student of IT engineering.
@@ -36,12 +38,6 @@
 
 </div>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/venisprajapati/github-contribution-stats/)
-
-<div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venisprajapati&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venisprajapati&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</div>
