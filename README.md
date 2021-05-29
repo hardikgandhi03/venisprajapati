@@ -64,19 +64,23 @@
 -->
 
 
+### Projects
+
+<p>
+<a href="https://github.com/venisprajapati/CodeHat-frontend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=CodeHat-frontend&theme=algolia&layout=compact" />
+</a>    
+<a href="https://github.com/venisprajapati/Boat-Rush">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=Boat-Rush&theme=algolia&layout=compact" />
+</a>
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/venisprajapati">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venisprajapati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venisprajapati&layout=compact&langs_count=8&theme=algolia"/>
-</a>
- 
-<a href="https://github.com/venisprajapati/CodeHat-frontend">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=CodeHat-frontend&theme=algolia&layout=compact" />
-</a>    
-<a href="https://github.com/venisprajapati/Boat-Rush">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=Boat-Rush&theme=algolia&layout=compact" />
 </a>
 
 <a href="https://github.com/venisprajapati">
