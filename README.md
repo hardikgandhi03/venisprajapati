@@ -23,21 +23,23 @@
 [![HitCount](https://views.whatilearened.today/views/github/venisprajapati/creative-profile-readme.svg)](https://github.com/venisprajapati/creative-profile-readme)
 -->
 
-<img alt="Contribution stats" href="https://github.com/venisprajapati/github-contribution-stats/" src="https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical" align="right"/>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 I’m currently student of IT.\
-🌱 Always learning and problem solving in real world tasks.\
-👯 Looking to collaborate in projects.\
-🤔 Do Best projects ;).\
-⚡ Fun fact: Bicycle riding, football, computers, games and friends is life.\
-😄 Pronunciation: It's Venis not Vanish.
+  🔭 I’m currently student of IT.\
+  🌱 Always learning and problem solving in real world tasks.\
+  👯 Looking to collaborate in projects.\
+  🤔 Do Best projects ;).\
+  ⚡ Fun fact: Bicycle riding, football, computers, games and friends is life.\
+  😄 Pronunciation: It's Venis not Vanish.
+
 
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -46,13 +48,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!--
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
@@ -62,7 +63,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 -->
-
+<!-- 
 
 ### Projects
 
@@ -73,19 +74,20 @@
 <a href="https://github.com/venisprajapati/Boat-Rush">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=Boat-Rush&theme=algolia&layout=compact" />
 </a>
-</p>
+</p> -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/venisprajapati">
+<!--  <img alt="Contribution stats" href="https://github.com/venisprajapati/github-contribution-stats/" src="https://github-contribution-stats.vercel.app/api/?username=venisprajapati&layout=compact&theme=radical" align="right"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venisprajapati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venisprajapati&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-<a href="https://github.com/venisprajapati">
+<!-- <a href="https://github.com/venisprajapati">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venisprajapati&theme=algolia&layout=compact" />
-</a>
+</a> -->
 
 </p>
 
