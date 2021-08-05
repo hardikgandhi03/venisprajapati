@@ -68,7 +68,7 @@
 
 <p>
 <a href="https://github.com/venisprajapati/symptom-disease-api">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=CodeHat-frontend&theme=algolia&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=symptom-disease-api&theme=algolia&layout=compact" />
 </a>    
 <a href="https://github.com/venisprajapati/Boat-Rush">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=venisprajapati&repo=Boat-Rush&theme=algolia&layout=compact" />
