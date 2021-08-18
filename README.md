@@ -8,8 +8,6 @@
 -->
 <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b/"><img src="https://img.shields.io/badge/-Venis%20Prajapati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:venisprajapati2102@gmail.com"><img src="https://img.shields.io/badge/-venisprajapati2102@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ven.iis"><img src="https://img.shields.io/badge/-ven.iis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/venis.prajapati"><img src="https://img.shields.io/badge/-VenisPrajapati-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <!--- 
