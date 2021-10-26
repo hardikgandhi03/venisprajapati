@@ -33,7 +33,6 @@
   😄 Pronunciation: It's Venis not Vanish.
 
 Blogs => <a href="https://medium.com/@venisprajapati2102">Medium</a>
-Donate: Buy me a coffee: <a href="buymeacoffee.com/venisprajapati">buymeacoffee.com/venisprajapati</a>
 
 ### 🛠 &nbsp;Tech Stack
 
