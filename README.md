@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=venisprajapati&color=blueviolet">
 <!--a href="https://www.venisprajapati.blogspot.com"><img src="https://img.shields.io/badge/-venisprajapati.blogspot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 -->
-<a href="mailto:projects.venisprajapati@gmail.com"><img src="https://img.shields.io/badge/-projects.venisprajapati@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="mailto:projects.venisprajapati@gmail.com"><img src="https://img.shields.io/badge/-projects.venisprajapati@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b/"><img src="https://img.shields.io/badge/-Venis%20Prajapati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
